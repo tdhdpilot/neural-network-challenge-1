@@ -43,3 +43,11 @@ The business team has given you a CSV file that contains information about previ
 2. Based on the data you chose to use in this recommendation system, would your model be using collaborative filtering, content-based filtering, or context-based filtering? Justify why the data you selected would be suitable for your choice of filtering method.
 
 3. Describe two real-world challenges that you would take into consideration while building a recommendation system for student loans. Explain why these challenges would be of concern for a student loan recommendation system.
+
+### Sources
+
+- Visual Studio Code
+- GitHub Coplilot
+- Xpert Leraning Assistant
+- Classmates
+- ChatGPT
